@@ -83,7 +83,7 @@ def menu():
             print("❌ Invalid choice. Please try again.")
 
 
-view_cart()
+menu()
 
 
     
